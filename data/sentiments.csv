@@ -1,3 +1,4 @@
 text,label,score
-"The company's move to 100% renewable energy is impressive.",POSITIVE,0.99
-"There is still a lack of diversity in management positions.",NEGATIVE,0.92
+"Major investment in renewable energy is a positive step.",POSITIVE,0.95
+"The net zero pledge seems ambitious but lacks details.",NEUTRAL,0.60
+"Current recycling rates are insufficient to meet targets.",NEGATIVE,0.80
