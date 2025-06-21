@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from value_pool_heatmap.heatmap import prepare_heatmap_data
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 st.title("ESG Growth Opportunities Dashboard")
 
